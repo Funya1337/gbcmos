@@ -16,7 +16,8 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #03a9f4;
+  /*color: #114397;*/
 }
 
 .parallax-container {
@@ -61,4 +62,18 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.my-title {
+  padding-top: 10px;
+  color: white;
+}
+
+li a.my-submenu-item {
+  color: hsla(0, 1%, 27%, 0.836);
+  font-size: 1rem;
+}
+
+.my-list {
+  text-align: left;
 }
