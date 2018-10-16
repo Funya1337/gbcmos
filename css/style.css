@@ -77,3 +77,43 @@ li a.my-submenu-item {
 .my-list {
   text-align: left;
 }
+
+.my-company-row {
+  margin-top: 40px;
+}
+
+.my-company-img {
+  margin-bottom: 20px;
+}
+
+.my-company h4 {
+  margin-top: 0;
+}
+
+.my-company-url {
+  margin-bottom: 10px;
+}
+
+.card-content .card-title.my-product {
+  margin-bottom: 20px;
+}
+
+.my-product-desc {
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+ul.my-list {
+  margin-top: 10px;
+  padding-left: 30px;
+  list-style-type: circle;
+}
+
+ul.my-list > li {
+  list-style-type: circle;
+}
+
+a.brown-text.text-lighten-3.my-codingbootcampru {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
