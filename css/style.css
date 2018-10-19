@@ -52,6 +52,9 @@ p {
   }
 }
 
+/*body {
+  background-color: lightgray;
+}*/
 
 .icon-block {
   padding: 0 15px;
@@ -64,9 +67,35 @@ footer.page-footer {
   margin: 0;
 }
 
+img.my-logo {
+  margin-top: 5px;
+  height: 50px;
+}
+
+.my-menu {
+  margin-left: 60px;
+}
+
 .my-title {
   padding-top: 10px;
   color: white;
+}
+
+.my-lotte {
+  margin-top: 40px;
+  /*margin-bottom: 30px;*/
+}
+
+.my-lotte-1 {
+  margin-bottom: 20px;
+}
+
+.my-lotte-2 {
+  margin-top: 10px;
+}
+
+.my-lotte-text {
+  margin-top: 20px;
 }
 
 li a.my-submenu-item {
