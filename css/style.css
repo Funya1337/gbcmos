@@ -146,3 +146,21 @@ ul.my-list > li {
 a.brown-text.text-lighten-3.my-codingbootcampru {
   color: rgba(255, 255, 255, 0.8) !important;
 }
+
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+img.my-logo-footer {
+  margin-top: 14px;
+}
